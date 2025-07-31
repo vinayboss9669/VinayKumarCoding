@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Vinay kumar</h1>
-<h3 align="center">Future software developer in the making… <br/> Of course! With a sip of Java ☕!!</h3>
+<h3 align="center">Future software developer in the making… Of course! With a sip of Java ☕!!</h3>
 
 ---
 
