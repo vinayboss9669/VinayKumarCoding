@@ -52,6 +52,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=vinayboss9669&theme=tokyo-night" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinayboss9669&theme=tokyo-night" alt="GitHub Activity Graph"/>
 </p>
+
 
